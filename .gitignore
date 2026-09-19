@@ -1,0 +1,15 @@
+﻿# Virtual Environments
+env/
+venv/
+.env
+
+# Data and Cache
+*.csv
+*.txt
+__pycache__/
+*.py[cod]
+
+# Editor configs
+.vscode/
+.idea/
+.codebuddy/
